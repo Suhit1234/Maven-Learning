@@ -12,5 +12,6 @@ public class FirstTest {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.google.com");
 		System.out.println("Shares");
+		System.out.println("New");
 	}
 }
