@@ -11,5 +11,6 @@ public class FirstTest {
 		System.out.println("Suhit");
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.google.com");
+		System.out.println("Shares");
 	}
 }
